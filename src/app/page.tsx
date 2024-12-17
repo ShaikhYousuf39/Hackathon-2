@@ -8,7 +8,7 @@ const inter = Inter({
 
 export default function Home() {
   return (
-    <div className={inter.className}>
+    <div className={`${inter.className} bg-white`}>
       <div className="flex flex-col lg:flex-row items-center justify-center my-12 lg:my-24 lg:mx-72 mx-4 gap-10">
         <div className="flex flex-col gap-y-6 text-center lg:text-left">
           <p className="text-sm text-indigo-950">WELCOME TO CHAIRY</p>
