@@ -15,5 +15,5 @@
 }
 
 body {
-   @apply bg-white;
+   background-color: white;
 }
