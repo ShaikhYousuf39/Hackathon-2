@@ -21,10 +21,10 @@ export default function Header() {
                 <option value="eng">Eng</option>
                 <option value="esp">Esp</option>
               </select>
-              <Link href="/faqs" className="hover:underline">
+              <Link href="/pages" className="hover:underline">
                 FAQs
               </Link>
-              <Link href="/help" className="hover:underline">
+              <Link href="/about" className="hover:underline">
                 Need Help
               </Link>
             </div>
