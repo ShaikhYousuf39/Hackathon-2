@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function AboutSection() {
   return (
-    <div>
+    <div className="bg-white">
       <section className="flex justify-center items-center min-h-screen bg-white">
         <div className="grid grid-cols-1 gap-7 md:grid-cols-2 max-w-6xl shadow-lg">
           <div className="bg-[#007580] p-8 md:p-12 text-white flex items-center">
