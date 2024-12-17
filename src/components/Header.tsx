@@ -24,7 +24,7 @@ export default function Header() {
               <Link href="/pages" className="hover:underline">
                 FAQs
               </Link>
-              <Link href="/about" className="hover:underline">
+              <Link href="/contact" className="hover:underline">
                 Need Help
               </Link>
             </div>
